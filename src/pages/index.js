@@ -5,7 +5,7 @@ const IndexPage = () => {
     <main>
       <title>Home Page</title>
 
-      <h1>WOW SO GASBY WOW WOW</h1>
+      <h1 className="title title--red">WOW SO GASBY WOW WOW</h1>
 
       <p>test paragraph</p>
     </main>
